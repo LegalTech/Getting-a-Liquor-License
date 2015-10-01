@@ -1,0 +1,25 @@
+Title:Can you get a liquor license in Boston?
+Author:N.Caezza
+Description:Basic potential liquor license client intake form
+
+Q(1):Do you want a liquor license?
+A:Yes
+	Q(1.1):Do you have an entity to hold the license as licensee (Corporation, LLC, Partnership etc.)?
+	A: Yes
+		Q(1.1.1):Is your entity registered to do business in Massachusetts as either a domestic or foreign entity?
+		A: Yes
+			Q(1.1.1.1):Are you up to date on your taxes to the Department of Revenue?
+			A: Yes
+				Q(1.1.1.1.1):Do you have a lease or deed to the premises you intend to use?
+				A:Yes
+					Q(1.1.1.1.1.1):Do you have floor plans of the premises?
+					A: Yes
+						Q(1.1.1.1.1.1.1):Do you know which individuals will hold a beneficial interest in the License?
+						A:Yes
+							Q(1.1.1.1.1.1.1.1):Have each individual fill out the following forms: <a href="http://www.mass.gov/abcc/pdf/coriform.pdf"> ABCC CORI</a>; <a href="http://www.mass.gov/abcc/pdf/forms/personalinfoform.pdf"> ABCC Personal Information Form </a>;<a href="http://www.cityofboston.gov/images_documents/Criminal%20Record%20Information%20Form_fillable_tcm3-19502.pdf"> Boston Licensing Board CORI</a>;<a href="http://www.cityofboston.gov/images_documents/Personal%20Information%20Form%20Fillable%202013_tcm3-46630.pdf"> Boston Licensing Board Personal Information Form </a>
+		A:No/not sure
+			Q:<a href="http://www.mass.gov/dor/"> Contact the Massachusetts Department of Revenue</a>
+	A:No
+		Q(1.1.2):<a href="http://www.sec.state.ma.us/cor/"> Contact the Massachusetts Secretary of the Commonwealth</a>
+A:No
+	Q(1.2):Thanks for stopping by!
